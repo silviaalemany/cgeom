@@ -1,0 +1,9 @@
+[submodule "midpoint-transformer"]
+	path = midpoint-transformer
+	url = git@github.com:silviaalemany/midpoint-transformer.git
+[submodule "welcome2hull"]
+	path = welcome2hull
+	url = git@github.com:silviaalemany/welcome2hull.git
+[submodule "tri-it"]
+	path = tri-it
+	url = git@github.com:silviaalemany/tri-it.git
