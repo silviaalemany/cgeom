@@ -1,2 +1,1 @@
-# compgeo-fun
-Some things I've made for computational geometry
+Some small programs I've made related to computational geometry.
